@@ -1,0 +1,649 @@
+jQuery1810043045428484501436_1537415257075({"data":{"html":"    <div class="rev-list">
+        <ul>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/35307645.html" target="_blank"><img src="http://n3-q.mafengwo.net/s8/M00/0E/9B/wKgBpVUxpMKAFBmZAAB0MneFMPw94.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.10</span></div>
+                    <a class="useful"  data-id="124600252" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/35307645.html" target="_blank">Ivy</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">门票90元/人，东门下车，从东门进一路下坡逛的是单程节省体力，最后南门出。进去你可以选择不上玉垒阁看全景，那就沿着二王庙一直往下走，选择玉垒阁就必须坐步云梯，40元/人往返，看完全景，就沿着二王庙一路走来到安索桥，过桥，一边是鱼嘴，一边是宝瓶口，先到鱼嘴看完折回去看宝瓶口，然后顺着走看到张松银杏，就快到景区南门口了。那里有好多车，很方便。</p>
+                    
+                    
+                    
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-20 14:43:38</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9570233.html" target="_blank">《重庆成都十日游》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="124600252"
+                                      data-comment_username="Ivy"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/83672559.html" target="_blank"><img src="http://n1-q.mafengwo.net/s11/M00/2C/36/wKgBEFq7qSaAO0VfAAXp39MoZ_I37.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.7</span></div>
+                    <a class="useful"  data-id="119392316" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/83672559.html" target="_blank">kumam</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">去的那几天基本都是断断续续的下雨，所以都江堰水位高，像飞沙堰，鱼嘴都只能看到高于水位的部分了。<br />
+或许，水势平坦的时候，能更全面的看到都江堰的巧妙设计；但也正是因为去的时候看到了水势的凶猛，才更觉得都江堰的伟大。<br />
+整个游览时间为两小时，到达鱼嘴后坐了景区车…路程很短，建议不赶时间不要坐…</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_228091732.html" target="_blank"><img src="http://p2-q.mafengwo.net/s11/M00/23/0C/wKgBEFsjk_GAUuyEABNkfXgU57I20.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228091736.html" target="_blank"><img src="http://b2-q.mafengwo.net/s11/M00/1E/FE/wKgBEFsjkJSAHRI8AA1sD76IVZU70.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228091752.html" target="_blank"><img src="http://p1-q.mafengwo.net/s11/M00/1F/03/wKgBEFsjkJeAcIjWABDQwoI4p-454.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                    </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-19 11:47:30</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9557113.html" target="_blank">《匆忙的旅客——四天三晚成都行》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="119392316"
+                                      data-comment_username="kumam"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/81888046.html" target="_blank"><img src="http://p3-q.mafengwo.net/s11/M00/18/89/wKgBEFtKiCGAJ8jJAA5nKN84YIw26.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.15</span></div>
+                    <a class="useful"  data-id="119542412" title="点赞">
+                        <i></i><span class="useful-num">1</span>
+                    </a>
+                    <a class="name" href="/u/81888046.html" target="_blank">虎宝宝</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">成都市到都江堰坐大巴车大约一个多小时，开车会快点。<br />
+来这不要走正门，从玉垒山的门进去，直接去坐观光电梯去玉垒阁，这样后面就是一路下山，基本不用爬山的。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_228111648.html" target="_blank"><img src="http://p4-q.mafengwo.net/s11/M00/2F/6E/wKgBEFsnCuuAZglDABEa7iCbs4g88.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                    </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-19 07:22:03</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9554841.html" target="_blank">《2018初夏相约在路上第二部分～印象成都》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="119542412"
+                                      data-comment_username="虎宝宝"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/56429148.html" target="_blank"><img src="http://p1-q.mafengwo.net/s11/M00/80/D2/wKgBEFsnU9CAdgKuAAB2oEp3Jio46.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.6</span></div>
+                    <a class="useful"  data-id="124612200" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/56429148.html" target="_blank">Dummy</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">可以在景区右边的游客中心寄存行李，一件8元，门票是90元。可以关注都江堰微信公众号，里面有语音讲解和推荐路线，按照推荐路线来就好。特别注意的是，建议不要略过一开始的伏龙观，在上面可以看宝瓶口水景 我因为听信了导游的话没有去，后来发现那真的是一个绝佳的摄影点……<br />
+看完宝瓶口那一带后买观光车的票去参加鱼嘴，由鱼嘴走安澜索桥去参观二王庙，秦堰楼。<br />
+至于要不要从松茂古道下山，我觉得看个人。因为那条路实际上不是特别长，而且是类似于茶马古道的古代商道，还是挺有意义的，只是对于玩累的人可能还是有点长，路上有玉庐台，西关等景点，部分地方拍照好看（途中的玉庐阁要登山一小段，我就没去了，时间长且力气足的话可以上去坐观光电梯俯瞰整个景区）<br />
+最后可以从西街那条路下山到达西街南桥，出门是景区大门。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_228286508.html" target="_blank"><img src="http://b2-q.mafengwo.net/s11/M00/4F/ED/wKgBEFsnJ1aAbj5VAA9yV5LIQEI54.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228286512.html" target="_blank"><img src="http://p2-q.mafengwo.net/s11/M00/4F/EE/wKgBEFsnJ1eAbNSoAAN_HGU6G1g66.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228286516.html" target="_blank"><img src="http://p4-q.mafengwo.net/s11/M00/51/2F/wKgBEFsnKFyAS1dmABQSeT_nwnk98.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228286520.html" target="_blank"><img src="http://n4-q.mafengwo.net/s11/M00/51/50/wKgBEFsnKHaASrgyABpPBSZH8IA77.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-18 14:36:43</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9548169.html" target="_blank">《一个人的成渝两地自由行——名胜古迹，自然...》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="124612200"
+                                      data-comment_username="Dummy"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/50387076.html" target="_blank"><img src="http://n4-q.mafengwo.net/s11/M00/6B/FA/wKgBEFseOtWACwxfAApBqGKiF-w22.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.3</span></div>
+                    <a class="useful"  data-id="119229196" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/50387076.html" target="_blank">露痴</a>
+                                                            <span class="s-star s-star4"></span>
+                                        <p class="rev-txt">我们坐高铁到达都江堰高铁站，再坐都江堰直达巴士或九路公交车到达景区。<br />
+都江堰景区直达巴士(至北门口)每人十元，赠送景区讲解。<br />
+上午十一点有一场“都江堰放水大典”演出（演出在景区外面！）一个小时多结束。<br />
+全票180，持都江堰站高铁票的朋友120元。好看不好看，跟你们想象的旅行团行程包含当地特色大型演出没差。<br />
+看完演出，我们果断自行离队。可自己游玩，别坐直达巴士，选择九路公交车，不建议黑车。(网上购票除外）<br />
+都江堰门票全票50元，学生证45元，军官证等有效证件可优惠。<br />
+特别说明，上海籍的朋友可以在都江堰享15元门票的优惠。<br />
+作为AAAAA级景区，参观的人当然多，这是大多著名景区的通病，也多有商业化的存在。因此，要真正了解一个景区的文化历史，可能并不只是走马观花样过一遍。<br />
+但我们与大多游客一般，确认了眼神，到此一游后草草离开。在此，也就不多介绍都江堰了，自身亲临，感受不同。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_228726560.html" target="_blank"><img src="http://p4-q.mafengwo.net/s11/M00/72/62/wKgBEFsiEX-APl95AAyAulNXzWA07.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228726568.html" target="_blank"><img src="http://n1-q.mafengwo.net/s11/M00/60/6F/wKgBEFsiBEWAfPVqABHbp27Jf9060.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228726576.html" target="_blank"><img src="http://p1-q.mafengwo.net/s11/M00/60/71/wKgBEFsiBEeAAS-sABIA08gJjaY22.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228726584.html" target="_blank"><img src="http://p3-q.mafengwo.net/s11/M00/72/7A/wKgBEFsiEZOAa9FhAB9bjGiGW6Y99.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-15 13:58:26</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9526301.html" target="_blank">《成都的街头，重庆的市尾
+吃与生活并存。》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="119229196"
+                                      data-comment_username="露痴"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/94169546.html" target="_blank"><img src="http://n2-q.mafengwo.net/s10/M00/48/68/wKgBZ1kAeXeAUnIGAABhXP2UUcY94.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.4</span></div>
+                    <a class="useful"  data-id="119024384" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/94169546.html" target="_blank">小白</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">想详细了解都江堰水利工程的亲，最好请位导游讲解，或者租一个讲解机，边看边听讲解，领悟其中的原理，才能不虚此行</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_227281684.html" target="_blank"><img src="http://p2-q.mafengwo.net/s11/M00/5B/76/wKgBEFsmDDmAVhJOAA_rKjP4nO444.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227281688.html" target="_blank"><img src="http://b3-q.mafengwo.net/s11/M00/5B/77/wKgBEFsmDDqAZeIiAA1ZIifHX_Y21.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227281696.html" target="_blank"><img src="http://n2-q.mafengwo.net/s11/M00/5B/77/wKgBEFsmDDuAAVuEABSUE8zMAeI48.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227281700.html" target="_blank"><img src="http://b1-q.mafengwo.net/s11/M00/5B/79/wKgBEFsmDDyATkKQAAzNEe_vFMc82.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-14 22:46:15</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9522761.html" target="_blank">《成都，六小只的五日慢时光》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="119024384"
+                                      data-comment_username="小白"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/71666257.html" target="_blank"><img src="http://n1-q.mafengwo.net/s11/M00/DC/59/wKgBEFrADIOAV7-ZAABi2_z1_gE58.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.11</span></div>
+                    <a class="useful"  data-id="118978232" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/71666257.html" target="_blank">麦兜兜girl2</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">毕竟大型水利工程，身临其境，感受着故人的，宏伟的工程是经历多少人的努力造就今天的这般模样。在这，我俩在夫妻桥上撒了把野，还拍了抖音。都江堰逛了3个小时吧，我们提前出来到这边的街上逛逛，旅游景点嘛，肯定有很多东西买和小吃罗。个人建议:如果时间充裕的朋友可以在这住上一晚，感受不一样的地域特色。</p>
+                    
+                    
+                    
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-13 14:34:48</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9509293.html" target="_blank">《神奇九寨沟＆网红山城》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="118978232"
+                                      data-comment_username="麦兜兜girl2"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/64261242.html" target="_blank"><img src="http://b3-q.mafengwo.net/s11/M00/33/AB/wKgBEFsn5VuAD87wAAvvj3Fzw3w19.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.13</span></div>
+                    <a class="useful"  data-id="116305924" title="点赞">
+                        <i></i><span class="useful-num">2</span>
+                    </a>
+                    <a class="name" href="/u/64261242.html" target="_blank">Bell啊Bell</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">都江堰 必须值得去。置身于景区内，你会被古人巧夺天工的智慧所折服。<br />
+<br />
+都江堰 市原名叫做灌县，最著名的 都江堰 水利工程始建于战国时期，历经两千多年还发挥着防洪灌溉作用，堪称是人与自然和谐统一的杰作。进入 都江堰 景区，建议在景区内部租用旅游电子讲解器，这样可以帮助你更好地理解千年古堰工程的建造与运作原理。<br />
+<br />
+都江堰 景区门票90元/人，特殊人群享受优惠政策。旅程大致需要两到三小时，主要以步行为主，可以从南桥开始，经过离堆公园，到宝瓶口，然后到飞沙堰，再沿着金刚堤步行到鱼嘴，然后可以过安澜索桥，抵达对岸后爬山至秦堰楼，在秦堰楼可以看到整个 都江堰 的全貌，适合全景照相。从秦堰楼出来，再步行到二王庙。最后再全部原路返回到南桥。其中，在飞沙堰往鱼嘴路上（也就是整个金刚堤路）可以乘坐电瓶车，单程10元/人，但排队等候的人会很多，愿意选择步行的驴友下来大约需要20分钟。那天我为了节省时间，没有去二王庙与南桥，有点惋惜。<br />
+<br />
+（路线：从 青城山 前山可以搭乘公交车101路抵达离堆公园站，车程时间约30~50分钟）</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_224523440.html" target="_blank"><img src="http://b4-q.mafengwo.net/s11/M00/F5/BB/wKgBEFqr65yAZNCNAAOgSh7y4XY55.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224523444.html" target="_blank"><img src="http://p4-q.mafengwo.net/s11/M00/71/F7/wKgBEFqn-SuAEMtHAAx5eKfh3m846.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224523448.html" target="_blank"><img src="http://b3-q.mafengwo.net/s11/M00/72/16/wKgBEFqn-VCAF5O9AA1nhzcfHng95.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224523452.html" target="_blank"><img src="http://b2-q.mafengwo.net/s11/M00/72/13/wKgBEFqn-UuAGDauAAnT1t14FVE46.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-12 23:34:32</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/8692518.html" target="_blank">《品川西麻辣，赏巴蜀锦绣——记重庆、成都五...》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="116305924"
+                                      data-comment_username="Bell啊Bell"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/93248581.html" target="_blank"><img src="http://b3-q.mafengwo.net/s9/M00/BE/9C/wKgBs1dYJbiAAVAVAADFQPpekAk90.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.4</span></div>
+                    <a class="useful"  data-id="118308804" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/93248581.html" target="_blank">美奈♡</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">因为离市区很远，建议包车或者跟团哦，都江堰听导游讲解的很好，不然一个人自己去的话，肯定看不到什么，主要靠讲解 。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_226970816.html" target="_blank"><img src="http://b3-q.mafengwo.net/s11/M00/53/A0/wKgBEFsaGgKAYS0TABI_dSwEuKs37.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                    </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-11 18:20:19</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9492621.html" target="_blank">《成都超详细四天攻略网红小吃实测防踩雷拍照圣地》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="118308804"
+                                      data-comment_username="美奈♡"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/50869707.html" target="_blank"><img src="http://p2-q.mafengwo.net/s9/M00/FE/08/wKgBs1gLQEOAYa-sAAFJJh5_WoU78.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.9</span></div>
+                    <a class="useful"  data-id="118927744" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/50869707.html" target="_blank">猫咪小</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">仅仅是因为既然来到就不要错过的心态，我们到达时已经临近闭关时间，匆匆浏览了一眼这伟大的水利工程，像岷江一样急促。还好景区内有观光车，双程￥15/人。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_227166040.html" target="_blank"><img src="http://n2-q.mafengwo.net/s11/M00/FB/2D/wKgBEFsdKXSAH85gAAmgKkKsSrM39.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227166044.html" target="_blank"><img src="http://p4-q.mafengwo.net/s11/M00/FB/32/wKgBEFsdKXWAR5V8AA57cLj2oHA22.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227166048.html" target="_blank"><img src="http://b4-q.mafengwo.net/s11/M00/FB/36/wKgBEFsdKXeAHieoAAyZnR64SAo78.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227166052.html" target="_blank"><img src="http://b4-q.mafengwo.net/s11/M00/FB/3C/wKgBEFsdKXmAcW4gABfI3Q3i-T872.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-10 23:18:54</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9485885.html" target="_blank">《对不起，我没能爱上成都。》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="118927744"
+                                      data-comment_username="猫咪小"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/88214687.html" target="_blank"><img src="http://p1-q.mafengwo.net/s10/M00/CE/F4/wKgBZ1jA0mWAHGMOAADMa3wFg9E55.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.6</span></div>
+                    <a class="useful"  data-id="118824392" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/88214687.html" target="_blank">张茶茶</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">其实我真的是一个路痴，也特别不擅长记住一些特别的地名，记得常规路线为：景区入口-伏龙观-观景亭-碑亭-人字堤、金刚堤-安澜索桥-二王庙-步云梯-玉垒阁-松茂古道-玉垒关-景区出口，但我们没有特地按路线走。<br />
+虽说我们稀里糊涂没按地图走，但是后来我们还是爬上了玉垒关（巨高），然后才出来（巨累）。<br />
+夫妻桥，走上去摇摇晃晃，有些小孩子还特地喜欢用力踩，走的我心惊胆战。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_227079100.html" target="_blank"><img src="http://p3-q.mafengwo.net/s11/M00/58/25/wKgBEFsJgDiAQr6JABUuyNMzl4Y19.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227079104.html" target="_blank"><img src="http://b1-q.mafengwo.net/s11/M00/DA/A9/wKgBEFsakT6AIrw_ABNdy7ZWfrM54.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227079108.html" target="_blank"><img src="http://n2-q.mafengwo.net/s11/M00/DC/B5/wKgBEFsak12AQTQcABYKfnQhulE81.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227079112.html" target="_blank"><img src="http://b4-q.mafengwo.net/s11/M00/DA/B0/wKgBEFsakUeAFku_AAyKgmpD12E13.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-10 00:34:53</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9479185.html" target="_blank">《两个人的巴蜀双城记》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="118824392"
+                                      data-comment_username="张茶茶"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/48201058.html" target="_blank"><img src="http://b4-q.mafengwo.net/s10/M00/61/6D/wKgBZ1ml9WuAS3LEAADTjTgCJjc17.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.5</span></div>
+                    <a class="useful"  data-id="118907932" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/48201058.html" target="_blank">大森林</a>
+                                                            <span class="s-star s-star4"></span>
+                                        <p class="rev-txt">都江堰就可以看到后山的景象，都是云雾缭绕的山景。佩服古人的智慧，宏伟的工程，造福了无数的百姓。去的时候，正好后面的很多景点在维修中，半路被拦上了，最后只能原路返回。有好多景点，都没能去成，有点小遗憾。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_227143860.html" target="_blank"><img src="http://n4-q.mafengwo.net/s10/M00/F6/BC/wKgBZ1nawf6AeOJKAAmEbMk7EXM67.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227143864.html" target="_blank"><img src="http://p2-q.mafengwo.net/s10/M00/F6/BC/wKgBZ1nawf-AT-2JABLWKBYkTEc30.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227143868.html" target="_blank"><img src="http://p1-q.mafengwo.net/s10/M00/F6/BD/wKgBZ1nawgGATYc-ABeBIMPa1nk75.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_227143872.html" target="_blank"><img src="http://p4-q.mafengwo.net/s10/M00/F6/BC/wKgBZ1nawf-AEbkvAAooxA7yD8Q61.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-09 09:51:00</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9473745.html" target="_blank">《一首《成都》》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="118907932"
+                                      data-comment_username="大森林"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/32807460.html" target="_blank"><img src="http://b3-q.mafengwo.net/s10/M00/53/02/wKgBZ1mSVWSAIbHjAA4NCqpra3g70.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.15</span></div>
+                    <a class="useful"  data-id="115746048" title="点赞">
+                        <i></i><span class="useful-num">3</span>
+                    </a>
+                    <a class="name" href="/u/32807460.html" target="_blank">曼曼陪你变老</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">给他五星不是因为他的风光多么的秀美，不是因为他被评为了几星级景区，而是我认为有条件都应该去膜拜这项伟大的工程。时任太守的李冰也并非生来就会治水，但在于民生的大爱之中悟出了治水真经，父子两代穷尽心血让成都平原这片非旱即涝之地，摇身变为如今得天府之国。让岷江这条欢脱的水龙，服帖地滋润养护这片大地千年。<br />
+       旁边的松茂古道曾经是繁华的茶马古道，藏民的马帮驮着本土的茶叶、皮毛浩荡地在行走在厚重的石板路上，不远万里而来换取他们需要的盐巴等物品。如今的松茂古道仍然葱茏，但在夕阳的余晖中，历史永远的定格，他的身影显得孤单而苍凉，他承载的历史使命已然结束，寂寥的玉垒关也不再是噩守古道的雄关，转而成为了供游客观光的一道风景。只有斑驳的城墙和磨得圆润的石阶诉说着他们曾经的辉煌。<br />
+      真正来过这里才懂得为何要拜水都江堰，在历史的长河中，他从不停歇地用他深沉的爱浸润着这片广袤的土地，守护千年，他值得！</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_224193340.html" target="_blank"><img src="http://p1-q.mafengwo.net/s11/M00/D1/F0/wKgBEFsZN7qAHR2RAAIg5x9YETE79.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224193348.html" target="_blank"><img src="http://n4-q.mafengwo.net/s11/M00/D1/F0/wKgBEFsZN7qAAeZfAAIB1kZjyy447.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224193352.html" target="_blank"><img src="http://n3-q.mafengwo.net/s11/M00/D1/F0/wKgBEFsZN7qAfdtNAAKvkgnSEeY71.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_224193360.html" target="_blank"><img src="http://p3-q.mafengwo.net/s11/M00/D1/F1/wKgBEFsZN7qAYuiDAAORqgPxh9Y35.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-07 21:48:43</span>
+                                                    <span class="from">
+                                此条点评来自<a href="/app/intro/gonglve.php" target="_blank">马蜂窝旅游APP</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="115746048"
+                                      data-comment_username="曼曼陪你变老"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/61902412.html" target="_blank"><img src="http://p3-q.mafengwo.net/s11/M00/C3/6D/wKgBEFq4-PeAPrncABBvLTq2eoo27.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.16</span></div>
+                    <a class="useful"  data-id="115708832" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/61902412.html" target="_blank">素纤瑾霖</a>
+                                                            <span class="s-star s-star4"></span>
+                                        <p class="rev-txt">都江堰旁边有个山，山上的风景还不错，可以走走，据说每年4-5月才有放水大典，不过没去看<br />
+有个观景台要坐电梯上去，没上去，感觉太坑，你可以修个步梯和电梯让别人选择，不高的地方只修电梯，强行让人消费，看不惯这种，黄果树都是有步梯有电梯。，在山上也能看到都江堰全景。<br />
+有天下第一爱情桥，挺不错的</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_228763708.html" target="_blank"><img src="http://n3-q.mafengwo.net/s11/M00/A4/3A/wKgBEFtYPQmAXOgmAFP6aJJwxrA46.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228763712.html" target="_blank"><img src="http://n2-q.mafengwo.net/s11/M00/A4/53/wKgBEFtYPRaAUFNsACfXdyJ6PCI81.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228763716.html" target="_blank"><img src="http://b1-q.mafengwo.net/s11/M00/A4/87/wKgBEFtYPSuAVIyoADX5BgqzRVY20.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_228763720.html" target="_blank"><img src="http://n1-q.mafengwo.net/s11/M00/A4/94/wKgBEFtYPTCAVVH1AAqqBKhUVnU656.png?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-07 12:44:41</span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="115708832"
+                                      data-comment_username="素纤瑾霖"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                                            <li class="rev-item comment-item clearfix">
+                    <div class="user"><a class="avatar" href="/u/17659482.html" target="_blank"><img src="http://b2-q.mafengwo.net/s10/M00/CB/70/wKgBZ1kVxfaAFoqUAAB75TjX9Q851.jpeg?imageMogr2%2Fthumbnail%2F%2148x48r%2Fgravity%2FCenter%2Fcrop%2F%2148x48%2Fquality%2F90" width="48" height="48"></a><span class="level">LV.15</span></div>
+                    <a class="useful"  data-id="117900812" title="点赞">
+                        <i></i><span class="useful-num"></span>
+                    </a>
+                    <a class="name" href="/u/17659482.html" target="_blank">一片枫叶</a>
+                                                            <span class="s-star s-star5"></span>
+                                        <p class="rev-txt">这里要说一下，如果从古镇后面的景区入口进去是需要爬山的，但其实回来后研究了地图发现，穿过南街以后再过南桥广场，从那边的口进去便是沿着都江堰一路走走晃晃的。。。大家可以根据自己的喜好选择入园口哦。。。另外，上海人去都江堰景区门票只要15元哦，只要携带身份证在售票处出示一下就可以了。。。</p>
+                    
+                    
+                    
+                                            <div class="rev-img">
+                                                            <a href="/photo/poi/13732_226645300.html" target="_blank"><img src="http://n2-q.mafengwo.net/s11/M00/F8/B5/wKgBEFsJEjiAYVIWAAs4R_cuFl838.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_226645304.html" target="_blank"><img src="http://b3-q.mafengwo.net/s11/M00/F8/B4/wKgBEFsJEjeAV5rGABIv_ESKtPg38.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_226645308.html" target="_blank"><img src="http://p2-q.mafengwo.net/s11/M00/F8/BD/wKgBEFsJEj6AaJ-rABQTJIxxztE54.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                                                            <a href="/photo/poi/13732_226645312.html" target="_blank"><img src="http://p2-q.mafengwo.net/s11/M00/FD/3B/wKgBEFsJFlmAcbKtAAyKWRLXCBI45.jpeg?imageMogr2%2Fthumbnail%2F%21200x120r%2Fgravity%2FCenter%2Fcrop%2F%21200x120%2Fquality%2F100" width="200" height="120"/></a>
+                                                        </div>
+                    
+                    <div class="info clearfix">
+                                                <a class="btn-comment _j_comment" title="添加评论">评论</a>
+                        <span class="time">2018-06-06 21:59:16</span>
+                                                    <span class="from">
+                                此条点评来自游记<a href="/i/9455229.html" target="_blank">《漫游成都，呱呱的现实版旅拍》</a>
+                            </span>
+                                            </div>
+
+                                        <div class="comment add-reply hide">
+                        <ul class="more_reply_box comment_list">
+                                                    </ul>
+
+                        <div class="add-comment hide reply-form">
+                            <textarea class="comment_reply"
+                                      data-comment_id="117900812"
+                                      data-comment_username="一片枫叶"
+                                      data-poi_id="13732"
+                                      data-poi_name="都江堰景区"
+                                      data-parent_id="" data-parent_uid="" data-parent_username=""></textarea>
+                            <a class="btn btn_submit_reply">回复</a>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+    
+        <div align="right" class="m-pagination">
+        <span class="count">共<span>276</span>页 / <span>4130</span>条</span>
+                            <a class="pi pg-prev" data-page="3" rel="nofollow"
+                title="前一页">前一页</a>
+                
+                                    <a class="pi" data-page="1" rel="nofollow"
+                    title="第1页">1</a>
+                                                <a class="pi" data-page="2" rel="nofollow"
+                    title="第2页">2</a>
+                                                <a class="pi" data-page="3" rel="nofollow"
+                    title="第3页">3</a>
+                                                <span class="pg-current">4</span>
+                                                <a class="pi" data-page="5" rel="nofollow"
+                    title="第5页">5</a>
+                                                <a class="pi" data-page="6" rel="nofollow"
+                    title="第6页">6</a>
+                            
+                    <a class="pi pg-next" data-page="5" rel="nofollow"
+                title="后一页">后一页</a>
+            <a class="pi pg-last" data-page="276" rel="nofollow"
+                title="末页">末页</a>
+            </div>
+
+","controller_data":{"poi_id":13732,"comment_count":4130},"css":[],"js":[]}});

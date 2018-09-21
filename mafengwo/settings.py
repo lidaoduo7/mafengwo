@@ -14,6 +14,17 @@ BOT_NAME = 'mafengwo'
 SPIDER_MODULES = ['mafengwo.spiders']
 NEWSPIDER_MODULE = 'mafengwo.spiders'
 
+# 用于向ES写数据，实际使用需要将修改为ES的IP+port
+# 查看 http://localhost:9200/blog/_search
+
+
+ITEM_PIPELINES = {
+    'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline': 100
+}
+
+ELASTICSEARCH_SERVERS = ['192.168.1.80:9200']
+ELASTICSEARCH_INDEX = 'lvyou'
+ELASTICSEARCH_TYPE = 'jishou'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'mafengwo (+http://www.yourdomain.com)'

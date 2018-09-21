@@ -9,8 +9,9 @@ import scrapy
 
 
 class MafengwoItem(scrapy.Item):
-    source = scrapy.Field()  # 来源
-    second_source = scrapy.Field()  # 二级来源
+    source = scrapy.Field()           # 来源
+    second_source = scrapy.Field()    # 二级来源
+    url = scrapy.Field()              # 链接
     remark_acccount = scrapy.Field()  # 评论数
-    scene_name = scrapy.Field()  # 景点名称
-    remarks = scrapy.Field()  # 评论，包含评论内容和评论时间字段
+    scene_name = scrapy.Field()       # 景点名称
+    comments = scrapy.Field()         # 评论，包含评论内容和评论时间字段
